@@ -1,4 +1,4 @@
-Kenapa Array $O(1)$ & Linked List $O(n)$?Array ($O(1)$): Memori kontinu (berdampingan). Komputer bisa langsung "lompat" ke alamat tujuan lewat perhitungan matematika sederhana karena jarak antar datanya pasti.Linked List ($O(n)$): Memori acak. Komputer harus menelusuri rantai dari awal satu per satu karena setiap data hanya tahu di mana lokasi data berikutnya.
+1. Kenapa Array $O(1)$ & Linked List $O(n)$?Array ($O(1)$): Memori kontinu (berdampingan). Komputer bisa langsung "lompat" ke alamat tujuan lewat perhitungan matematika sederhana karena jarak antar datanya pasti.Linked List ($O(n)$): Memori acak. Komputer harus menelusuri rantai dari awal satu per satu karena setiap data hanya tahu di mana lokasi data berikutnya.
 Kapan Linked List Unggul?
 Linked List lebih baik saat sering melakukan Penyisipan/Penghapusan di tengah atau awal data.
 
